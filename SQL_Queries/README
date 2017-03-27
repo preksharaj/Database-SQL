@@ -1,0 +1,16 @@
+Note:	When	asked	to	return	an	entity,	e.g. ‘user’, unless	explicitly	asked	to	return	a	specific	field	
+of	 the	entity,	e.g.	 the	name	of	 the	user, it	is	 fine	 to	return	only	the	Primary	Key,	e.g.	user_id,
+and	returning	all	the	fields	is	not	mandatory.
+1. We	want	to	draw	a	histogram	of	year-of-birth	for	users	that	were	born	in	or	after	1970.	
+Write	a	query	that	shows	years	starting	1970	and	the	number	of	users	born	in	that	year.	
+You	may	skip	a	year	for	which	there	is	no	user	born	in	that	year (optional).
+2. Given	that	there	are	24	hours	in	a	day,	what	is	the	hour	that has	the	highest	number	of	
+ads	created.
+3. How	many	ads	were	posted	to	category	‘250’	after	user	‘lhartj’	logged	out?
+4. What	city	has	the	largest	number	of	regions?
+5. What	is	the	name	of	the	user	whose	ad	has	been	liked	the	most?
+6. Mandy’sList	popularity:	What	is	the	region	where	the	largest	number	of	ads	have	been	
+posted	in?
+7. Frequent	 posters:	 list	 top	 three	 users	 who	 have	 posted	 the	 largest	 number	 of	 times	
+during	2015.
+8. What	is	the	title	and	price	of	the	most	recent ad	created	by	user	‘bnguyen50’
